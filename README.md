@@ -1,0 +1,1 @@
+Banking app why mainly focused on crud operations , used database MySQL for data , and more focused on entity repository service and connecctions , a basic view of how things work,please have a look on them
